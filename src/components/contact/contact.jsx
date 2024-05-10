@@ -44,7 +44,7 @@ export const Contact = () => {
   return (
     <section className="contact">
       <span className="contactTitle">Contact</span>
-      <span className="contactNumber">Mobile Number : +971 55 759 1343</span>
+      <span className="contactNumber">Mobile Number : +971 55 440 2709</span>
       <span className="contactDetails">
         <form ref={form} className="contactForm" onSubmit={sendEmail}>
           <input
